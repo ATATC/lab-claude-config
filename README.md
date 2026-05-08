@@ -5,14 +5,15 @@ login-node safety, experiment conventions, and reusable HPC workflows.
 
 ## Recommended Setup
 
-### Run the tool you want to use at least once:
-    - Claude Code: run `claude` and log in with `/login`
-    - Codex: run `codex` and log in
+### Run the tool you want to use at least once
+
+- Claude Code: run `claude` and log in with `/login`
+- Codex: run `codex` and log in
 
 ### Clone this repo:
 
 ```bash
-git clone https://github.com/ATATC/lab-claude-config.git ~/lab-claude-config
+git clone https://github.com/ATATC/lab-claude-config ~/lab-claude-config
 ```
 
 ### Open Claude Code or Codex and say:
